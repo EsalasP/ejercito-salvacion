@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ejercito-salvacion/static/css/main.ddddc30b.css",
+    "main.js": "/ejercito-salvacion/static/js/main.abc9df26.js",
+    "static/js/453.b6aa12a6.chunk.js": "/ejercito-salvacion/static/js/453.b6aa12a6.chunk.js",
+    "index.html": "/ejercito-salvacion/index.html",
+    "main.ddddc30b.css.map": "/ejercito-salvacion/static/css/main.ddddc30b.css.map",
+    "main.abc9df26.js.map": "/ejercito-salvacion/static/js/main.abc9df26.js.map",
+    "453.b6aa12a6.chunk.js.map": "/ejercito-salvacion/static/js/453.b6aa12a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddddc30b.css",
+    "static/js/main.abc9df26.js"
+  ]
+}
