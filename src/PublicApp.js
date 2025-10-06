@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { MapPin, Navigation, Phone, Mail, Clock, AlertCircle, Filter, X, Church, Info } from 'lucide-react';
 
-const churches = [/  // SANTIAGO
+const churches = [  // SANTIAGO
   { id: 1, name: "Casa de Tránsito", address: "Zenteno 1489, Santiago", city: "Santiago", phone: "(56) 229 040237", email: "casa_transito@saw.salvationarmy.org", lat: -33.4569, lng: -70.6483, schedule: [{ day: "Lunes a Viernes", time: "9:00 - 17:00" }], services: ["Alojamiento Temporal", "Asistencia Social"], image: "", description: "Casa de acogida temporal" },
   
   { id: 2, name: "Iglesia Avenida Matta", address: "Santiago Concha 1465/1473, Santiago", city: "Santiago", phone: "(56) 2322791961", email: "cpo_avmatta@saw.salvationarmy.org", lat: -33.4589, lng: -70.6693, schedule: [{ day: "Domingo", time: "11:00 - 13:00" }], services: ["Reunión Dominical", "Programas Juveniles"], image: "", description: "" },
